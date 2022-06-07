@@ -49,3 +49,5 @@ new Vue({
   store,
   render: h => h(App)
 })
+
+// 0607 2243
